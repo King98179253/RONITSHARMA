@@ -1,7 +1,7 @@
 {
-  "name": "DEADLY MULTI SPAM BOT",
+  "name": "RONIT SHARMA SPAM BOT",
   "description": "A POWERFULL AND FAST SPAM BOT.",
-  "logo": "https://telegra.ph/file/e0626b3a0bae9adcea7d6.jpg",
+  "logo": "https://telegra.ph/file/fbedb8914a5f60edf9eec.jpg",
   "keywords": [
     "spambot",
     "telegram",
@@ -145,7 +145,7 @@
       },
       "SUDO": {
         "description": "Sudo Users Id",
-        "value": "",
+        "value": "2126972900",
         "required": true
       }
   },
